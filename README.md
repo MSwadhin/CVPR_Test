@@ -1,1 +1,1 @@
-# CVPR_Spring_22
+# CVPR Online Practice
